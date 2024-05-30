@@ -1,3 +1,3 @@
 # Shattered Pixel Dungeon
 
-This repository if a fork of Shattered Pixel Dungeon for experimental purposes.
+This repository is a fork of Shattered Pixel Dungeon for experimental purposes.
